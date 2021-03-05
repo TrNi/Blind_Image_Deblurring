@@ -1,2 +1,4 @@
 # Include files you don't want track and push
 ./mytest
+Manifest.toml
+Project.toml
