@@ -22,9 +22,9 @@ To make sure you have all packages and files, please run 'include_all.jl' first.
 
 
 
-
 ## Comparison:
-
+![](fig/NRMSE_comparison_v3.png)
+![](fig/PSNR_comparison_v3.png)
 
 
 
