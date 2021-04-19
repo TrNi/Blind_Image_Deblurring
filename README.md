@@ -17,7 +17,7 @@ To make sure you have all packages and files, please run 'include_all.jl' first.
 
 
 ## Some Results:
-<embed src = "fig/levin_test_re.pdf" type = "application/pdf">
+<object data="/fig/levin_test_re.pdf" type="application/pdf" width="100%"> </object>
 
 
 
