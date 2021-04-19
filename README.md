@@ -17,7 +17,7 @@ To make sure you have all packages and files, please run 'include_all.jl' first.
 
 
 ## Some Results:
-<object data="/fig/levin_test_re.pdf" type="application/pdf" width="100%"> </object>
+![](/fig/levin_test_re.png)
 
 
 
