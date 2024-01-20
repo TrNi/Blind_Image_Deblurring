@@ -1,5 +1,5 @@
-# EECS 556 Project Repository
-This is a private GitHub repository for EECS 556 Image Processing Project
+# Blind Image Deblurring with Majorize-Minimize Algorithm
+This is a GitHub repository for Blind Image Deblurring with associated report:
     "Algorithms for Blind Image Deblurring" by Wei Hu, Zongyu Li, Preston Pan, Nisarg Trivedi.
 
 
